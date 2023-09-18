@@ -5,7 +5,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/ach1992/backup-marz-x-ui/main/backup.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hope-s/v2panel-auto-backup/main/backup.sh)
 ```
 
 ## Requirements
